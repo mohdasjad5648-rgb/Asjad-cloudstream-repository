@@ -1,0 +1,8 @@
+{
+  "name": "Asjad's CloudStream Repository",
+  "description": "My personal CloudStream repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mohdasjad5648-rgb/MyCloudStreamRepo/builds/plugins.json"
+  ]
+}
